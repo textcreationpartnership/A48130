@@ -1,0 +1,677 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent by an Oxford scholler to his quondam schoolemaster wherein the Parliament is proved either not to be at all, or to be at Oxford : their pretences detected, some objections answered, and the Kings cause so asserted, that the schoolmasters answer doth acknowledge himselfe convinc't : as also the scholler's reply to that answer, wherein he hath inserted a love-elegie from one of the five members to his paramour and his repulse in her answer.</title>
+            <author>Oxford scholler.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48130</idno>
+            <idno type="STC">Wing L1589</idno>
+            <idno type="STC">ESTC R2919</idno>
+            <idno type="EEBO-CITATION">12890082</idno>
+            <idno type="OCLC">ocm 12890082</idno>
+            <idno type="VID">95088</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48130)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95088)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 718:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent by an Oxford scholler to his quondam schoolemaster wherein the Parliament is proved either not to be at all, or to be at Oxford : their pretences detected, some objections answered, and the Kings cause so asserted, that the schoolmasters answer doth acknowledge himselfe convinc't : as also the scholler's reply to that answer, wherein he hath inserted a love-elegie from one of the five members to his paramour and his repulse in her answer.</title>
+                  <author>Oxford scholler.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Webb,</publisher>
+                  <pubPlace>[Oxford, Oxfordshire] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Facetiae.</note>
+                  <note>English and Latin.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1603-1649 --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95088:1"/>
+            <p>A LETTER Sent by AN <hi>OXFORD</hi> SCHOLLER To his <hi>Quondam</hi> SCHOOLEMASTER;</p>
+            <p>Wherein the PARLIAMENT is proved either not to be at all, or to be at <hi>Oxford:</hi> Their pretences detected, ſome objections an<g ref="char:EOLhyphen"/>ſwered, and the Kings cauſe ſo aſſerted, that the <hi>Schoolmaſters</hi> Anſwer doth ac<g ref="char:EOLhyphen"/>knowledge himſelfe convinc't.</p>
+            <p>As alſo the Scholler's Reply to that Anſwer, wherein he hath inſerted a
+<hi>Love-Elegie</hi> from one of the five Members to his Paramour, and his repulſe in her Anſwer.</p>
+            <p>Printed for W. WEBB. <hi>M.DC.XLII.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:95088:2"/>
+            <pb facs="tcp:95088:2"/>
+            <head>To the <hi>READER.</hi>
+            </head>
+            <p>
+               <hi>REader,</hi> I anticipate thy cenſure with my owne, acknowledging that there is nothing of
+<hi>worth</hi> in theſe ſcriblings, but the <hi>cauſe;</hi> ſo that I am juſt like that
+<hi>Shoomaker,</hi> who diſcours't to <hi>Apel<g ref="char:EOLhyphen"/>les</hi> about the <hi>thigh,</hi> when his skill reach't no higher then the <hi>ankle.</hi> I ſhould have remember'd <hi>Scaevo<g ref="char:EOLhyphen"/>la,</hi> who would be no <hi>Iack of all Trades;</hi> but when ſome Clients askt him counſell in the Law, he referr'd them to <hi>Caeſellius:</hi> and when the <hi>builders</hi> askt adviſe of
+<hi>Plato</hi> the <hi>Philoſopher,</hi> hee ſent them to <hi>Euclid</hi> the
+<hi>Geometrician.</hi> I acknowledge the errour of my piety; I ſhould have left theſe
+<hi>State</hi> affaires to <hi>Statiſts;</hi> and whileſt they <hi>build,</hi> it had been preferment for me one<g ref="char:EOLhyphen"/>ly to carry away the <hi>rubbiſh,</hi> ſo that the greateſt re<g ref="char:EOLhyphen"/>ward that I can deſire, is pardon. But how little I did itch after a publique name, thou mayſt know by this,
+<pb facs="tcp:95088:3"/>That I am aſhamed to tell thee who I am: and indeed, it was for feare of being
+<hi>publique</hi> that I deſired to be in <hi>Print;</hi> for ſome falſe Copies were threatned the <hi>Preſſe,</hi> unleſſe I would publiſh a <hi>true</hi> one; ſo that thou wilt quickly pardon the <hi>act,</hi> when thou conſidereſt the <hi>end:</hi> for I did onely <hi>commit</hi> this <hi>ſinne,</hi> that I might <hi>avoyd</hi> it.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:95088:3"/>
+            <head>The true Copy of a LETTER ſent from an OXFORD Scholler to his <hi>quon<g ref="char:EOLhyphen"/>dam</hi> Schoole-maſter.</head>
+            <opener>
+               <salute>SIR.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou will eſteeme it a <hi>ſoloeciſme</hi> in your <hi>Quondam</hi> ſchollar, that he ſhould thinke it no falſe <hi>Syntaxe</hi> to <hi>Catechize</hi> his Maſter, and may wonder that twenty yeares doe not bluſh to inſtruct three-ſcore; but by way of relation to your
+<hi>many</hi> Lectures, you muſt pardon my gratitude if I read you <hi>one;</hi> for ſince the
+<hi>Act</hi> doth alwayes carry proportion with the <hi>object,</hi> I am ſooner to diſcard my
+<hi>reverence</hi> to a <hi>Teacher,</hi> then my <hi>Loyalty</hi> to a <hi>Prince.</hi> For whom as I muſt ſpend every drop of blood to fight his cauſe, ſoe I will ſhed every drop of inke to aſſert it: and though the aſſailant is weake, yet the cauſe is ſo ſtrong, that I doubt not but to convince your faith, however I may faile of your acknowledgment. Since as
+<hi>Hannibal</hi> overcame <hi>Italy</hi> with <hi>Italian</hi> Forces, ſo I may beate your owne ſwords to the injury of your foreheads, which you hold up for the defence of 'em; for when the
+<hi>Parliament</hi> (thoſe I meane who are <hi>Nicknamed</hi> ſoe) doe prove that Rebellion in the <hi>Execution,</hi> which they yet diſavow to have been in the <hi>Intention,</hi> their hands doe ſo lowdly give their toungs the lie, that I can confute their words by noe ſtronger arguments then their actions. Hence it is that I admire at His Majeſties unwearied goodneſſe which hath rob'd His ſenſes of ſo many houres ſleepe, whil'ſt it hath ſtoop't to a con<g ref="char:EOLhyphen"/>futation of thoſe actions which for their evidence are indiſputable. To prove the object of ſence, is a taske for ſchoolboys; and I cannot wiſh my Enemies ſoe well, as the honour to fall by <hi>Hercules.</hi> Now Sir, that you may rightly ayme at the marke, I deſire you (as
+<hi>Ar<g ref="char:EOLhyphen"/>chers</hi> uſe) to ſhut one eye; I meane, that of <hi>Prejudice.</hi> Bolt not
+<pb n="2" facs="tcp:95088:4"/>your eares to the meſſage, becauſe 'tis <hi>I</hi> that bring it; be not deafe to good counſell, becauſe you are reſolved <hi>That no good thing can come out of Oxford.</hi> Be not like thoſe <hi>Indians,</hi> who would not goe to Heaven for feare of meeting a <hi>Spaniard</hi> there: Nay, be not like your old ſelfe, who did therefore deteſt the
+<hi>Liturgy</hi> and <hi>Hierarchy,</hi> becauſe 'twas common to us with <hi>Papiſts.</hi> Could the Devill teach me goodneſſe, I would be his Diſciple. There is no better way to compoſe a good Proteſtant, then by imitating the ſuperſtitious <hi>Ca<g ref="char:EOLhyphen"/>pouchins</hi> in continuall prayer; the Papiſticall <hi>Paduans</hi> in holy cha<g ref="char:EOLhyphen"/>ſtity; their Knighthood in the defence of Orphans and Widowes; the Pagan <hi>Turkes</hi> in pitty and charity; the Savage
+<hi>Tartars</hi> in ho<g ref="char:EOLhyphen"/>neſty, truth, and chaſtity; the <hi>Cyprians</hi> in affability and hoſpitality to ſtrangers; the Heathen of <hi>Peru</hi> in liberality to their God, King, and Countrey. Be not then (good Sir) like thoſe Harlots of <hi>
+                  <g ref="char:V">Ʋ</g>lna,</hi> who paint their teeth blacke, becauſe the dogg's are white. Be not at ſuch a ſtubborne and reſolv'd enmity with us, as to foſter Rebel<g ref="char:EOLhyphen"/>lion, becauſe we are loyall; nor ſay with the <hi>Lyrick</hi> Poet,
+<q>Quodcunque oſtendis mihi ſic, incredulus odi.</q>
+            </p>
+            <p>
+               <hi>Marius</hi> did not diſdaine to learne of <hi>Hannibal;</hi> nor had he freed the
+<hi>Romans</hi> at <hi>Caudium,</hi> had they not beene conquer'd at <hi>Cannae:</hi> thinke it no brand to your credit to be your Schollers <hi>Proſelyte.</hi> O devote not your ſelfe to the darkneſſe of <hi>Aegypt,</hi> becauſe 'tis <hi>I</hi> that would leade you into the light of
+<hi>Goſhen;</hi> nor be the leſſe in love with a retractation of your hereſie, becauſe the motive to it is vile. Truth lies not now (as <hi>Antiquity</hi> faign'd it) in a ditch, but is ſo ob<g ref="char:EOLhyphen"/>vious to the eye, that if you (being a Scholler) ſtumble at her, I ſhall thinke it is not becauſe you are blinde, but that you will not ſee. Thoſe (indeed) whoſe ſlender ſoules ſee no farther then their eyes, who not able to diſtinguiſh betwixt the Name and the Thing, call the <hi>Conſpiracy</hi> the <hi>Parliament,</hi> whoſe groſſer mindes being fed one<g ref="char:EOLhyphen"/>ly by hopes and feares, are too thicke to take in the finer nouriſh<g ref="char:EOLhyphen"/>ment of Reaſon; thoſe (I confeſſe) may be quickly cozened of their loyalty. But that your Intellect ſhould be be-nighted with ſuch a <hi>Cymerian</hi> darkneſſe, as not yet to be unclouded by the beames of our <hi>Engliſh Sunne, (The Declarations of his Majeſtie;)</hi> This ſtagger's my underſtanding.</p>
+            <p n="1">1. O conſider with remorſe of conſcience how this Kingdome now labours with the
+<hi>Falling Sickneſſe,</hi> and (like men of that diſ<g ref="char:EOLhyphen"/>eaſe)
+<pb n="3" facs="tcp:95088:4"/>lies throbbing her owne bowels; the extremity of whoſe malady hath ſo taken away the ſenſe of it, that the giddy Rout ſtop<g ref="char:EOLhyphen"/>ping their eares to Accommodation (like the drunken <hi>Lapithae</hi>) de<g ref="char:EOLhyphen"/>ſpiſe their Phyſitian.</p>
+            <p n="2">2. Conſider how fertile our Land is in a <hi>Cadmus</hi> crop, when we may change but the name, and ſpeake <hi>Lucan</hi> of our ſelves, <hi>Bella per Angliacos pluſquam civilia, &amp;c.</hi> And the then State of <hi>Rome</hi> was but the prophecy of ours: for,
+<q>
+                  <l>Nec quenquam jam ferre poteſt Caeſârve priorem,</l>
+                  <l>Pompeiúſve parem.</l>
+               </q> 
+               <hi>That is,</hi>
+               <q>The <hi>King</hi> will admit no Rivall, <hi>Pym</hi> no Superiour.</q>
+            </p>
+            <p n="3">3. Conſider what a diſaſtrous event will attend this ſo unnaturall a Rebellion; that the leſſer Gods (though Gods) had no ſooner complotted to binde <hi>Jupiter,</hi> but there was a <hi>Thetis</hi> to detect the Treaſon, and a <hi>Briareus</hi> to defeate it: and though both ſides yet run like <hi>Parallel</hi> lines, yet they can never end in the ſame
+<hi>Center.</hi>
+            </p>
+            <p n="4">4. Conſider when you read <hi>Homer</hi> to me, what a ſpeciall notice you commanded me to take of that <hi>Periphraſis,</hi> by which he calls the <hi>King</hi> the
+<hi>Paſtor</hi> of his people,
+<q>— <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q> Now for Sheepe to butcher one another, were admirable; but to bring their Shepherd to the ſhambles, prodigie.</p>
+            <p n="5">5. Conſider that <hi>Aſperius nihil eſt humili, &amp;c.</hi> — and what a combuſtion this Kingdome is already in, whileſt theſe <hi>Phaëtons</hi> of State aſpire to rule in CHARLES his <hi>Waine:</hi> nay, how it is like to be confounded into its old
+<hi>Chaos,</hi> unleſſe a <hi>Thunderbolt</hi> diſmount 'em from the <hi>Sunn's Chariot.</hi>
+            </p>
+            <p n="6">6. Conſider in what deteſtation future Parliaments will be had, whileſt
+<hi>Poſterity</hi> reflects on this; believing that then they will of<g ref="char:EOLhyphen"/>fend by
+<hi>Preſcription,</hi> when Rebellion is authorized by ſo high a Title; when the Court of Juſtice ſhall be a <hi>Topick</hi> for the approve<g ref="char:EOLhyphen"/>ment of <hi>Vice,</hi> and by the ſame
+<hi>Logick</hi> will diſpute downe that Con<g ref="char:EOLhyphen"/>fiſtory, by which they prove Epiſcopacy unlawfull, becauſe ſome Biſhops have been bad. Nay, it will paſſe into a Proverbe with the <hi>ſimplicity</hi> of the <hi>Vulgar,</hi> to ranke the <hi>Engliſh Parliament with the Spaniſh Inquiſition.</hi> for wickedneſſe and the world are both of one growth; they'le thinke that <hi>Neroni ſufficiet Nero,</hi> that the Iron age is likely to be no mending one; and will be ſure to remember,
+<pb n="4" facs="tcp:95088:5"/>That when <hi>Scipio</hi> the father had endangered <hi>Carthage, Scipio</hi> the Sonne ruin'd it. This makes them ſit ſo long, becauſe they thinke they ſit their laſt.</p>
+            <p n="7">7. Laſtly, conſider our Soveraigne under a double notion, how (as a
+<hi>Chriſtian</hi>) He rules <hi>Himſelfe,</hi> and (as a <hi>King</hi>) His <hi>Countrey.</hi> How the goodneſſe of His Majeſtie ſtands in <hi>equipage</hi> with the ſplendour of it. How He is ſo compos'd and made up of <hi>Grace and Favour,</hi> that he is a Prince as 'twere accompliſht for the indearing of His people; we ſhould vindicate him not onely as the father, but (as the <hi>Graecians</hi> did <hi>Helena;</hi>) — <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, As the Bridegroome of his Countrey: for our deareſt Relations, which like divided ſtreames, runne ſeverall wayes, muſt all meet in him as in their proper Ocean. Adde this as an Epilogue to your conſiderati<g ref="char:EOLhyphen"/>ons, that you would take it very ill if the lower <hi>Claſſis</hi> of your Schoole (but the <hi>Plebeians</hi> of that your Kingdome) ſhould take the <hi>Burchen Scepter</hi> out of your hand, and imploy it about your breetch. This (with pardon to my youth) is to prepare you for a fit Reader, leſt your ſufferage ſhould be beſpoke, and taken up on to'ther ſide; for ſince Truth cannot comply with an erroneous Judgement, nor hold conformity with that rule by which it was not made: I deſire you to reade over what my ſhallow apprehenſion of theſe State matters is, with an unpreoccupied underſtanding.</p>
+            <p>The Parliament at firſt had not long ſate, when ſome <hi>Pygmes</hi> of fortune, out of a naturall Antipathy with thoſe of <hi>taller</hi> growth, did anxiouſly labour to make them ſhorter by the head; and being <hi>Eagle<g ref="char:EOLhyphen"/>ſighted,</hi> they endeavour'd to prune off thoſe ſpreading branches, which interpos'd as a Skreene betwixt the <hi>Sunne</hi> and <hi>them.</hi> Now, becauſe the people were to <hi>act</hi> that <hi>Tragedy,</hi> of which themſelves had laid the <hi>Plott,</hi> they muſt ſtudie ſome <hi>impoſture</hi> by which to
+<hi>juggle</hi> out their affections; ſo that Juſtice it ſelfe did now begin to be
+<hi>acceſſary,</hi> and Religion the <hi>Pimpe</hi> for vice. <hi>Atheiſme</hi> was to be work't in under pretext of <hi>Reformation; Proteſtancy</hi> to be work't out under the name of
+<hi>Papiſme. Licentiouſneſſe</hi> was ſollicited un<g ref="char:EOLhyphen"/>der the maske of <hi>Liberty; Inconveniences</hi> to be taken away for the introducements of <hi>Miſchiefes.</hi> Dirt was to be caſt on the <hi>Ermyn,</hi> and then he to be accuſed of being foule. He was to be argued of
+<hi>Popery,</hi> and ſo of <hi>Perjury.</hi> His very Declarations were accuſed of a curious garbe of <hi>Rhetoricke,</hi> and found guilty of an <hi>Idaea;</hi> both maje<g ref="char:EOLhyphen"/>ſtick,
+<pb n="5" facs="tcp:95088:5"/>and yet decent. Their writings were to be credited even for their ſlovenly conveyance. The <hi>Phrenſie</hi> of the Pulpit had the repu<g ref="char:EOLhyphen"/>tation of <hi>Zeale,</hi> and men
+<hi>poſſeſs't</hi> with the ſpirit were eſteemed as <hi>inſpired.</hi> Some parts were to be let bloud for the preſervation of the whole; and inſtead of purging ill humours, they were to change the <hi>Craſis</hi> of the body. Like pictures that looke ſeverall wayes, or like the <hi>ninth Orbe,</hi> they were to move <hi>Weſtward</hi> in complyance with the King, and direct <hi>Eaſt</hi> in the progreſſe of their own deſignes. The <hi>power</hi> of Soveraignty was ſhaken to confirme the <hi>right</hi> of it, that ſo the people might
+<hi>rebell</hi> with the more obedience; and (as I dare ſweare many have done) that they might doe ill with a good con<g ref="char:EOLhyphen"/>ſcience, and fight againſt their King in a diſcharge of their
+<hi>allegeance.</hi> Anon they pretend to <hi>Enthuſiaſme,</hi> and (as <hi>Numa</hi> from
+<hi>Egeria,</hi> or <hi>Mahumet</hi> from the Angell <hi>Gabriel</hi>) to have direction even from God. So that now (like oppoſite lines in a Globe, which by being drawne aſunder, meet) the
+<hi>Puritane</hi> is <hi>Papiſt,</hi> (omitting the ſhrive<g ref="char:EOLhyphen"/>ing men from perjury after the battell at <hi>Brainceford</hi>) not onely in <hi>King-killing,</hi> but alſo in
+<hi>infallibility.</hi> For by this time <hi>Pym</hi> is <hi>Pope</hi> of <hi>England,</hi> as well as <hi>
+                  <g ref="char:V">Ʋ</g>rban</hi> of <hi>Rome.</hi> His aſſertion is his proofe, and the action of which he gives the reaſon, is the reaſon of the action; ſo that <hi>Petere principium</hi> is to argumentize beſt. The vul<g ref="char:EOLhyphen"/>gar are of <hi>Hiero's</hi> minde. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they put their ſalvation into his hands; and to whatſoever he ſhall doe, they re<g ref="char:EOLhyphen"/>ſigne up their
+<hi>conſciences,</hi> as well as their <hi>conſents.</hi>
+            </p>
+            <p>This foundation of a <hi>Ruine</hi> being laid, (that my Letter may not ſwell, I will give but one inſtance) they vote downe Biſhops, be<g ref="char:EOLhyphen"/>cauſe they have too much knowledge to be
+<hi>ſeduc't</hi> into their facti<g ref="char:EOLhyphen"/>on, and too much conſcience to be <hi>work't</hi> to't. Here the <hi>King</hi> muſt have no <hi>ſuffrage,</hi> unleſſe He make it theirs: and as if His Oath did onely ſerve to <hi>ſolemnize</hi> His <hi>Coronation,</hi> they thinke it not enough for Him to part with His <hi>Prerogative,</hi> unleſſe He will diſpence with His
+<hi>Religion</hi> too: they had rather His Oath were <hi>broke,</hi> then the Biſhops
+<hi>kept.</hi> The <hi>King</hi> againe is refractary, and whil'ſt they <hi>vote</hi> Perjury to be no ſinne, He denyes to make it an <hi>Act.</hi> The <hi>Militia</hi> is to be ſetled in their hands who are intereſſed and engaged in this growing Treaſon, that they may
+<hi>awe</hi> Him to their <hi>Votes,</hi> to which they cannot <hi>wooe</hi> Him. And notwithſtanding thoſe evi<g ref="char:EOLhyphen"/>dences at <hi>Edge-hill</hi> and <hi>Brainceford,</hi> beſides the ſuborning of <hi>Pam<g ref="char:EOLhyphen"/>pheleteers</hi>
+               <pb n="6" facs="tcp:95088:6"/>for their Abettors, as of ſome to prove the <hi>King a Papiſt,</hi> and thoſe perfidious that will beleeve Him; of others that do averre Him to be <hi>
+                  <g ref="char:V">Ʋ</g>niverſis minor,</hi> though <hi>Singulis major;</hi> of a third ſort, who would have the Subjects coordinate with Him, not ſubordinate to Him, and the like; I ſay notwithſtanding all this, they are ſo fa<g ref="char:EOLhyphen"/>mouſly <hi>impudent,</hi> as to proclaime themſelves loyall, and the Rabble ſo eminently <hi>ſtupid</hi> as to beleeve 'em. His <hi>Majeſtie</hi> (like a prudent
+<hi>Halcyon</hi>) fore ſeeing a <hi>tempeſt</hi> would be ſhortly, whileſt the
+<hi>clouds</hi> were o're his head, forſakes the unruly <hi>Ocean;</hi> and removes the Par<g ref="char:EOLhyphen"/>liament to <hi>Yorke,</hi> though the <hi>Title</hi> ſtay'd behinde at <hi>London:</hi> for put the King's part of the Parliament (notoriouſly knowne to be the major) in one ſcale of your Judgement and the leſſer part of <hi>London</hi> in the other; then ſuppoſe (not grant) the ballance in <hi>Aequilibrio,</hi> yet the King (who is heavier then both) being put to the greater part, muſt needs outweigh the leſſe: ſo that now you are brought to this <hi>Dilemma,</hi> that either the Parliament is <hi>not,</hi> or that it is not at <hi>London.</hi>
+            </p>
+            <p>
+               <hi>Ob.</hi> 1. <hi>But you ſay, the King cannot breake off the Parliament.</hi> I anſwer, that the King is an eſſentiall part of it, and therefore 'tis all one for him to leave it, and to breake it off, for the <hi>cauſality</hi> of <hi>intrinſecall cauſes</hi> is the
+<hi>union</hi> of them; and though the parts <hi>united</hi> are not diſtinguiſht from the whole, but <hi>ratione ratiocinatâ,</hi> yet taken aſunder they include a third
+<hi>entity;</hi> ſo that they of <hi>London</hi> are but an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and onely in
+<hi>potentiâ eſſendi,</hi> being not a body; and yet having no <hi>repugnancy</hi> to the making one, when they ſhall <hi>unite</hi> themſelves with the King: and though as yet but cyphers, yet they may make a number, when the royall figure ſhall be prefixt.</p>
+            <p>
+               <hi>Ob.</hi> 2. <hi>You ſay, He hath promiſed not to breake it off.</hi> But the moſt
+<hi>abſolute</hi> promiſe is implicitly <hi>hypotheticall;</hi> and though His Majeſtie did grant them a perpetuall <hi>Seſſion,</hi> yet granted with a <hi>proviſo,</hi> that they intrench't not on His <hi>Prerogative;</hi> inſomuch, that the promiſe doth no longer
+<hi>obtinere,</hi> when once they have rambl'd beyond the <hi>pale</hi> of their conditions. Beſides, if this Parlia<g ref="char:EOLhyphen"/>ment was to have any end, (as doubtleſſe by ſitting whileſt they liſt, was not meant ſitting whileſt they live) it was to be broken off by the major part, (who are with the King) and not to remaine 'till the conſents of <hi>all,</hi> for that
+<hi>all</hi> will not conſent ſo much as to adjourne,
+<pb n="7" facs="tcp:95088:6"/>much leſſe to end it, is manifeſt by this, that they are hereby exemp<g ref="char:EOLhyphen"/>ted from the tryall of their offences; from which the <hi>name</hi> of Par<g ref="char:EOLhyphen"/>liament (though it
+<hi>ſhould</hi> not yet) <hi>hath</hi> priviledg'd 'em<g ref="char:punc">▪</g> for it was held <hi>unlawfull,</hi> that the King ſhould proceed againſt thoſe five Mem<g ref="char:EOLhyphen"/>bers according to <hi>Law;</hi> and to accuſe Traytors was a breach of pri<g ref="char:EOLhyphen"/>viledge. Therefore each ſingle perſon will deſire to continue <hi>him<g ref="char:EOLhyphen"/>ſelfe</hi> a whole <hi>Shire</hi> or <hi>Corporation,</hi> becauſe that hath beene a tricke to authorize the higheſt Treaſons, and is the <hi>Tenure</hi> by which they hold both their <hi>Lives</hi> and <hi>Livings;</hi> ſo that they love the continu<g ref="char:EOLhyphen"/>ance of the Parliament, as condemned ſtrumpets doe the continuance of their <hi>great bellies,</hi> onely to ſave 'em from the <hi>Gallowes.</hi>
+            </p>
+            <p>
+               <hi>Ob.</hi> 3. <hi>You ſay, ſo</hi> many <hi>are more judicious then</hi> one, <hi>and there<g ref="char:EOLhyphen"/>fore their verdict to take place.</hi> But ſuppoſe the negative and affir<g ref="char:EOLhyphen"/>mative Votes are even; if there be no <hi>
+                  <g ref="char:V">Ʋ</g>mpire</hi> to decide, then either they muſt caſt lotts on whoſe ſide it ſhall paſſe, or they are juſt like <hi>Caligula,</hi> who muſtered up his Souldiers to gather <hi>Cockelſhells;</hi> or like <hi>Cato</hi> in the Theater, <hi>Qui ideo tantùm venerat, ut exiret;</hi> and we ſhould finde them Regiſter'd with this
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>:
+<q>
+                  <l>In Parliament above five hundred men</l>
+                  <l>Sate downe to Vote, and ſo roſe up agen.</l>
+               </q>
+            </p>
+            <p>
+               <hi>Ob.</hi> 4. <hi>You ſay, the Kings Prerogative is not leſſen'd, whileſt they aſſume ſo much.</hi> You muſt pardon my unbeliefe if it be no part of my Creed: for the King and they being now <hi>Antipodes,</hi> their <hi>Ze<g ref="char:EOLhyphen"/>nith</hi> muſt be his <hi>Nadir;</hi> the more thoſe <hi>Starres</hi> doe aſcend our <hi>Ho<g ref="char:EOLhyphen"/>rizon,</hi> the more this <hi>Sunne</hi> muſt fall downe; for the latitude of <hi>Do<g ref="char:EOLhyphen"/>minion</hi> muſt be ſome way compleated in the body <hi>Politique,</hi> as the latitude of <hi>Qualities</hi> in the body <hi>Naturall;</hi> as where there are but three degrees of heat, there muſt be five of cold, according to that knowne Maxime, <hi>Gradualis ambitus contrarietatis ſupplenda eſt ex uno, aut altero contrariorum.</hi> Now the King and thoſe Rebels being <hi>Diametrically</hi> oppoſite, what you adde to their Authority, you muſt take from His.</p>
+            <p>That therefore the King is an abſolute Monarch, and by much ſu<g ref="char:EOLhyphen"/>periour to both Houſes, (He being deputed by God, and they but by the Countrey) though my <hi>ignorance</hi> in theſe high matters makes me feare to ſay I'le prove, yet I'le indeavour to illuſtrate by theſe emer<g ref="char:EOLhyphen"/>gent Arguments.</p>
+            <pb n="8" facs="tcp:95088:7"/>
+            <p n="1">1. From the Univerſe, which is govern'd by <hi>one</hi> God; from whom alſo all Kings had their firſt inſtitution. Hence <hi>Euripides</hi> in his <hi>Andromache,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p n="2">2. From the Common-wealth of <hi>Cranes,</hi> from whom (ſaith
+<hi>Aelian,</hi>
+               <abbr>
+                  <hi>l.</hi>
+               </abbr> 3.) mankinde at firſt learn'd their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and (as <hi>Plato</hi> in his <hi>Politicum</hi>) they never encampe againſt the
+<hi>Troglodytes,</hi> but with due obſervation to their <hi>Generall.</hi>
+            </p>
+            <p n="3">3. From all <hi>vegetable</hi> bodies, which (if the parts be equall) will be
+<hi>homogeneous;</hi> and (if there be many heads) <hi>monſtrous.</hi>
+            </p>
+            <p n="4">4. From all <hi>mixt</hi> bodies, which Philoſophy will not allow ſhould have a
+<hi>Temperament ad Pondus;</hi> for there is a Monarchy in their qualities, which would ceaſe to be <hi>active,</hi> were they all equall; becauſe <hi>Similia non agunt invicem.</hi>
+            </p>
+            <p n="5">5. From the confuſedneſſe and miſchiefe of the contrary; for the government of the
+<hi>Conſuls, Decemviri,</hi> and <hi>Tribunes,</hi> were incom<g ref="char:EOLhyphen"/>patible with the
+<hi>Romans<g ref="char:punc">▪</g>
+               </hi> and inconſiſtent with an Empire of ſo long a durance; which forced them to that government which they had formerly refuſed; (viz.) of <hi>Kings</hi> call'd
+<hi>Emperours.</hi> This made <hi>
+                  <g ref="char:V">Ʋ</g>lyſ<g ref="char:EOLhyphen"/>ſes</hi> in <hi>Homer,</hi> breake forth to the
+<hi>Graecians</hi> in his
+<q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. —</q>
+            </p>
+            <p n="6">6. From the ſuffrages of beſt Authors; and of infinite I will cite but few.
+<hi>Plutarch (De tribus Reip. generibus)</hi> proves this the beſt, and brings <hi>Plato's Politicum</hi> to confirme it. In <hi>Herodotus</hi> (<abbr>
+                  <hi>l.</hi>
+               </abbr> 3.) when
+<hi>Otanes</hi> had made a ſpeech for <hi>Polyarchy, Megabyzus</hi> for <hi>Oly<g ref="char:EOLhyphen"/>garchy,</hi> and
+<hi>Darius</hi> for <hi>Monarchy,</hi> the foure <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> preferr'd the laſt, which
+<hi>Pythagoras</hi> proves from the very nature of <hi>Numbers<g ref="char:punc">▪</g>
+               </hi> whence <hi>Plutarch</hi> obſerves, that with <hi>Homer, <g ref="char:V">Ʋ</g>nity</hi> is convertible with <hi>goodneſſe,</hi> and multitude with vice; which appeares by the contrary ſignifications of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p n="7">7. From the inferiour Heavens, which doe move at the pleaſure of the <hi>Primum mobile.</hi> From the <hi>Elements;</hi> of which the lower ſo little aſpire into the Territories of the higheſt, that they doe not <hi>Le<g ref="char:EOLhyphen"/>vitare in ſuis locis.</hi> And laſtly from all that is <hi>in</hi> Nature, or <hi>above</hi> it, for God had more skill in
+<hi>ſetting,</hi> (when he compos'd the <hi>Harmo<g ref="char:EOLhyphen"/>ny</hi> of the world) then to make all the
+<hi>parts</hi> in <hi>uniſon.</hi>
+            </p>
+            <p>To conclude therefore, I will inferre from what I have ſaid, theſe 6 Corollaries.</p>
+            <p n="1">1. That the <hi>Praedicament</hi> of a <hi>Common wealth</hi> is to be made ac<g ref="char:EOLhyphen"/>cording
+<pb n="9" facs="tcp:95088:7"/>to <hi>Sub</hi> and <hi>Supra;</hi> and that ours as well as the reſt, ought to have a <hi>Summum genus</hi> in't.</p>
+            <p n="2">2. That the King is the very <hi>ſoule</hi> of the Kingdome, and that ſoule an
+<hi>act,</hi> of which the <hi>will</hi> as well as the <hi>underſtanding</hi> is a ſub<g ref="char:EOLhyphen"/>ſtantiall <hi>faculty;</hi> and that thoſe Rebels are but untam'd affections, pro<g ref="char:EOLhyphen"/>ceeding from the <hi>ſenſitive appetite,</hi> which <hi>Ariſtotle</hi> calls <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>beaſtly</hi> part of the body.</p>
+            <p n="3">3. That the <hi>Machivillians</hi> in <hi>London</hi> (—<hi>O quis iniquae tam patiens urbis!</hi> —) have not onely endeavour'd, but have <hi>de facto</hi> altered the government of this Kingdome, of which the <hi>Oligarchs</hi> are in <hi>London,</hi> whileſt the
+<hi>Monarch</hi> reſides in <hi>Oxford.</hi>
+            </p>
+            <p n="4">4. That they have turn'd <hi>Machiavel's</hi> precept into practice, <hi>Di<g ref="char:EOLhyphen"/>vide &amp; impera,</hi> for they have uncemented a great part of the <hi>Mem<g ref="char:EOLhyphen"/>bers</hi> from the <hi>Head,</hi> by invenoming His Name, and imbittering their natures<g ref="char:punc">▪</g> by ſtriking into them the
+<hi>pannick</hi> feares of <hi>villenage;</hi> and by ſetting up an <hi>Idoll</hi> at
+<hi>Weſtminſter</hi> for poore <hi>Ignorance</hi> to <hi>fall downe 'to;</hi> ſo that the abuſed multitude (fancying them to be what indeed they are not) doe not onely adore their owne
+<hi>Workmanſhip,</hi> but (what is worſe) their <hi>Creature.</hi>
+            </p>
+            <p n="5">5. That as they <hi>falſely</hi> proteſt they warre not againſt the <hi>King,</hi> but His evill <hi>Counſellours,</hi> ſo we may <hi>truly</hi> ſweare, that the <hi>King</hi> fights not againſt the <hi>Parliament,</hi> but the <hi>Diſturbers</hi> of it.</p>
+            <p n="6">6. Laſtly, that they have nothing in them of a <hi>Parliament,</hi> but the bare
+<hi>Notion</hi> and <hi>Place;</hi> and that the beſt of their actions doe looke no otherwiſe, then as if (with <hi>Heroſtratus</hi>) their <hi>Authors</hi> committed them for no other end, then to be <hi>notorious</hi> enough for a <hi>Chronicle<g ref="char:punc">▪</g>
+               </hi> which for the
+<hi>unworthineſſe</hi> ſhall be regiſter'd in the ſame Catalogue with <hi>Litiſar</hi> the <hi>Dyer</hi> in the dayes of <hi>Richard</hi> 2. <hi>Joſeph</hi> the <hi>Blacke-ſmith, (H.
+7.) Robin Ket</hi> the <hi>Tanner</hi> (<hi>Edw.</hi> 6.) <hi>Jack Cade (H. 6.) Wat Tyler</hi> and
+<hi>Jack Straw</hi> (<hi>R.</hi> 2.) But rather then the King ſhall want ſtrength to overwhelme theſe Rebels, I doubt not but the cloudes will drop downe in a ſhower of <hi>Locuſts</hi> to devoure them, as ſometimes in <hi>Norwey</hi> it hath rain'd <hi>Lemmers.</hi> I doubt not but the people will be one day diſ-infatuated; That their <hi>Seducers</hi> (like <hi>Actaeon</hi>) may bee eaten up by their owne <hi>Hounds.</hi> But ſhould our ſucceſſe be worſe, I would not thinke their cauſe the better; knowing that the <hi>Arme</hi> is let bloud, when
+<pb n="10" facs="tcp:95088:8"/>the diſeaſe lyes in the <hi>Stomack:</hi> and whileſt God puniſhes tis for their <hi>faults,</hi> I ſhall eſteeme their <hi>Victory</hi> their <hi>Judgement.</hi> So ſteadfaſtly reſolves</p>
+            <closer>
+               <signed>The moſt ſollicitous of your welfare * * *</signed>
+            </closer>
+         </div>
+         <div type="answer">
+            <head>The <hi>SCHOOLEMASTER</hi>'s Anſwer.</head>
+            <p>I Have read your Letter, which hath made me your <hi>Convert;</hi> for the <hi>pathos</hi> of your ſtile hath had ſuch ſtrong influence on my <hi>reaſon,</hi> and the ſavage performance of thoſe Rebels doth ſo diſ<g ref="char:EOLhyphen"/>prove their faire promiſes, that I confeſſe my ſelfe overcome, and muſt <hi>Herbam porrigere.</hi> Now that your Letter may convert o<g ref="char:EOLhyphen"/>thers by my example, I deſire you (with the concealement of my name) to make it <hi>Publici juris:</hi> for I would <hi>Palinodiam canere</hi> ſo <hi>loud,</hi> that all the world might heare it. For that reſpect's ſake which you once did beare to me your Maſter, let it in <hi>Lacem prodire;</hi> for there are imperfect Copies flowne abroad from my hands, which ſome intend to commit to Preſſe, <hi>Publicae utilitatis ergò.</hi> My haſte (for I am now giving
+<hi>Homer's</hi> Lecture) will let me ſay no more, then that I am</p>
+            <closer>
+               <signed>
+                  <hi>A Loyall Subject and a loving friend</hi> ○ ○ ○.</signed>
+            </closer>
+         </div>
+         <div type="reply_to_answer">
+            <pb n="11" facs="tcp:95088:8"/>
+            <head>The Gratulatory <hi>REPLY</hi> to that <hi>ANSWER.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOu cannot imagine in what an extremity of joy I now live, not ſo much that I had the
+<hi>honour,</hi> as the <hi>happi<g ref="char:EOLhyphen"/>neſſe</hi> to convert you, as well for my owne ſake, in whoſe tender'ſt thoughts you had a great proportion; as more eſpecially for yours, who can now looke unhood<g ref="char:EOLhyphen"/>winck't on thoſe men of darkneſſe, who ſeeke to ſacrifice a
+<hi>Majeſtie</hi> to their wilde <hi>luſts.</hi> with whom a great part of peo<g ref="char:EOLhyphen"/>ple doe commit Idolatrie, (as the poore <hi>Indians</hi> worſhip the Devill) that they may doe them no harme; not fearing them for <hi>love,</hi> but loving them for <hi>feare:</hi> and ſo they doe not pay them the Tribute of <hi>Reverentiall,</hi> but <hi>Servile Homage.</hi> Poore ſoules! who hope to flatter <hi>Hell</hi> into a <hi>Sanctuary</hi> and ſo looſe their <hi>refuge</hi> by running to an <hi>Aſylum,</hi> like <hi>Fannius</hi> in <hi>Mar<g ref="char:EOLhyphen"/>tial,</hi> who died to avoid death.
+<q>Dic mihi, non ſtultum eſt ne moriare, mori?</q>
+            </p>
+            <p>Another part of men thinking <hi>Rebellion</hi> ſtronger then <hi>Ju<g ref="char:EOLhyphen"/>ſtice,</hi> doth comply with it, <hi>becauſe they have too much to looſe.</hi> A third quite contrary, <hi>becauſe they have too much to get.</hi> And the laſt and moſt to be deplored, (whoſe underſtandings are abuſed by thoſe grand <hi>Machivillians)</hi> fight <hi>againſt</hi> the King <hi>in</hi> His <hi>owne Cauſe, offend</hi> Him in His <hi>Defence,</hi> and deſtroy the
+<hi>Eſſence</hi> of Parliament, to preſerve the <hi>Priviledge</hi> of it: As if Parliaments (like the waters of <hi>Betheſda)</hi> could not cure a <hi>le<g ref="char:EOLhyphen"/>prous</hi> Common-wealth, before they were <hi>troubl'd:</hi> Or as if the <hi>Kingdome</hi> (like a <hi>Watch</hi>) could not poſſibly be mended,
+<pb n="12" facs="tcp:95088:9"/>unleſſe the wheeles and parts were taken aſunder. I dare ſay the leaſt of theſe foure faults was yours; which as you were ſo much Man as to commit, ſo you have beene ſo much Chri<g ref="char:EOLhyphen"/>ſtian as to repent. And becauſe I was ſo <hi>luckie</hi> as to
+<hi>purge</hi> your <hi>affections,</hi> though perhaps not ſo <hi>wiſe</hi> as to
+<hi>cleare</hi> your <hi>Reaſon;</hi> I will write as pathetically as my ſlender skill will give leave (and <hi>the cauſe inſpire</hi>) to my Cozen <hi>B.</hi> for perhaps my
+<hi>youth</hi> may worke ſtronger with him, then that <hi>age</hi> which can wooe him wiſer; eſpecially, becauſe I know he loves me well, and hath ſo faire an example as your ſelfe to follow.</p>
+            <p>Thus farre, Sir, I have wrote ſadly to you, give me leave to entertaine you now with a little mirth: It is the Love-Elegie of a <hi>Politick Amoriſt,</hi> which if hee did not make himſelfe, but procured ſome body to doe it for him, yet I dare ſweare the ſenſe is all his owne. I have ſent the Anſwer too, if both can but procure one ſmile from your ſerious forehead, I ſhall thinke the paines of writing it well paid for.</p>
+         </div>
+         <div xml:lang="lat" type="elegy">
+            <pb n="13" facs="tcp:95088:9"/>
+            <head>Carmen Eroticon ab uno Mem<g ref="char:EOLhyphen"/>brorum quinque, ad Dilectiſsimam ſuam amicam <hi>D. C.</hi>
+            </head>
+            <l>ILle ego prognatus de nigreſcente <hi>Caballo,</hi>
+            </l>
+            <l>Quem fertur <hi>moriens</hi> ſponte dediſſe <hi>Pater,</hi>
+            </l>
+            <l>En <hi>Patrem</hi> refero, <hi>(petulans</hi> genus extat <hi>equorum</hi>)</l>
+            <l>Pronus in amplexus (<hi>Diva Corinna)</hi> tuos.</l>
+            <l>Ille ego cordato cujus moderamine, vobis</l>
+            <l>Nondum clauduntur <hi>(Parliamenta)</hi> fores,</l>
+            <l>Quem <hi>ratis Angliacae Typhin,</hi> quem quiſque popelli,</l>
+            <l>
+               <hi>Regalis currûs Automendonta</hi> vocant,</l>
+            <l>Quique <hi>Stuartiadis Caroli</hi> Diademata vinco,</l>
+            <l>Vincor captivus <hi>(Pulchra Corinna)</hi> tuus.</l>
+            <l>Curribus en jungit binas <hi>Cytheraea</hi> columbas,</l>
+            <l>Cantat <hi>Iö</hi> victrix, <hi>ecce Triumphus,</hi> ait.</l>
+            <l>Et tibi ſubjectus, jam nunc dediſco <hi>rebellem;</hi>
+            </l>
+            <l>Quem nequiit <hi>pietas</hi> flectere, flexit <hi>amor.</hi>
+            </l>
+            <l>Et licet haud valeo <hi>Dominum</hi> tolerare <hi>Carollum,</hi>
+            </l>
+            <l>Te fateor <hi>Dominam</hi> (ſancta <hi>Corinna</hi>) meam.</l>
+            <l>Ah me diſcipulum <hi>Veneris</hi> plus fulmine ſternunt,</l>
+            <l>Ex oculi pharetris ſpicula jacta tuis.</l>
+            <l>Nec tam regales faſces amor urget habendi,</l>
+            <l>Quàm quibus ingenii ſis potienda modis.</l>
+            <l>
+               <hi>Aureus</hi> in gremium patulum tibi (chara) venirem,</l>
+            <l>
+               <g ref="char:V">Ʋ</g>t quondam <hi>Danaë Jupiter</hi> imbre ſuae.</l>
+            <l>En tibi ſubmitto jugulum; ſi juſſeris ipſa,</l>
+            <l>
+               <hi>Sedulus in funes</hi> obvia collae dabo.</l>
+            <pb n="14" facs="tcp:95088:10"/>
+            <l>Non me latratu terret canis iſte trifauci,</l>
+            <l>Quando concubitum (lux mea) quaro tuum.</l>
+            <l>
+               <hi>Iphias</hi> ô <hi>Capaneu</hi> non tunc magis arſit amore,</l>
+            <l>Quum fertur rapidis deſiliiſſe rogis.</l>
+            <l>Saepius ad trutinam tua dum voco membra, videtur</l>
+            <l>In tete ſolam multa fluiſſe Dea.</l>
+            <l>Inque domo <hi>menti</hi> petulans <hi>Cytheraea</hi> reſidit,</l>
+            <l>Inque tuis oculis coeſia <hi>Pallas</hi> adeſt.</l>
+            <l>Occupat &amp; frontem ſpacioſam <hi>ſoſpita Juno,</hi>
+            </l>
+            <l>Incolit &amp; digitos <hi>praevia lucis</hi> Ews.</l>
+            <l>Cum ſubit in mentem nox iſta noviſſima, quando</l>
+            <l>Miſcuimus placido membra ſilenda toro;</l>
+            <l>O mihimet geminus quoties occurrit ocellus,</l>
+            <l>Qualiter &amp; lepidus fronte renidet <hi>Amor;</hi>
+            </l>
+            <l>Quum memoro beves humeros, habiléſque papillas,</l>
+            <l>
+               <g ref="char:V">Ʋ</g>lnas candidulas, &amp; juvenile fomur;</l>
+            <l>(Quod caput eſt formae) capitis dum cogito formam,</l>
+            <l>Et meditor poſitam non ſine lege comam;</l>
+            <l>Iſtam praecipuè ſimulac ego cogito partem,</l>
+            <l>Partem quam verbis indigitare pudet;</l>
+            <l>Ah quò tunc rapior! quantis tunc aſtibus uror?</l>
+            <l>Quàm <hi>furiis</hi> inſtar pectore ſaevit Amor?</l>
+            <l>Diſtrahor hinc at que hinc; &amp; curas mente voluto,</l>
+            <l>
+               <g ref="char:V">Ʋ</g>t rudis indomito fluctuat unda mari.</l>
+            <l>Millena in mentem ſubeunt molimina noſtram,</l>
+            <l>Dum rabidus meditor quâ potes arte capi.</l>
+            <l>
+               <g ref="char:V">Ʋ</g>tque ſaginatus reſerato carcere <hi>Taurus,</hi>
+            </l>
+            <l>Obvia cum fuerit crebra <hi>Juvenca,</hi> ſalit;</l>
+            <l>Seu velut in luxum praeceps fuit ifte <hi>Caballus,</hi>
+            </l>
+            <l>Qui <hi>Matrem</hi> paſſim fertur amâſſe meam;</l>
+            <l>Sic pariter totum ſpirant mea corda <hi>Pryapum,</hi>
+            </l>
+            <l>Seu mihi per <hi>ſomnum</hi> (pulchra puella) ſubis;</l>
+            <l>Sic mea turgeſcunt aliter languentia membra,</l>
+            <l>Seu mihi per <hi>mediam</hi> tu ſubis (Alma) <hi>diem.</hi>
+            </l>
+            <l>Quum fato fungar, ſic ſic laſcivia vitam</l>
+            <l>Auferat; ah placuit ſic mihi ſaepe mori.</l>
+            <pb n="15" facs="tcp:95088:10"/>
+            <l>Nec pudibunda nimis metuas ab amante procari,</l>
+            <l>Famellas novi ſaepe fuiſſe procos.</l>
+            <l>Pulchra <hi>Laertiaden</hi> iterumque iterúmque <hi>Calypſo</hi>
+            </l>
+            <l>Heu precibus caſſis uſque manere rogat.</l>
+            <l>
+               <hi>Dardanium</hi> juvenem ſitiebat <hi>Punica Dido;</hi>
+            </l>
+            <l>
+               <hi>Cynthia</hi> cum labiis <hi>Endymiona</hi> petit.</l>
+            <l>Et licèt agreſtem (modò vati credis) <hi>Adonin</hi>
+            </l>
+            <l>
+               <hi>Idaliam</hi> dicunt ſaepe procâſſe Deam.</l>
+            <l>Quanta ſit <hi>Idalia</hi> expendas, &amp; <hi>Cynthia</hi> quanta,</l>
+            <l>Sunt utraeque <hi>Deae;</hi> fac imetêre <hi>Deas.</hi>
+            </l>
+            <l>Tu tamen haud procus es, velut hae; ſed &amp; ipſa procaris.</l>
+            <l>Solus ago, ſolùm tu patiâre velim.</l>
+            <l>Sis procul à faſtu, neve aſſimilêre <hi>Sabinis;</hi>
+            </l>
+            <l>At faciles aures tu perhibere velis.</l>
+            <l>Quid ſi vel naſus, vel frons mihi deſit eburnea?</l>
+            <l>
+               <hi>Murice</hi> nec <hi>Tyrio</hi> ſubrubuêre genae?</l>
+            <l>Eſt color incertus, ne tu confide colori;</l>
+            <l>Decipitur <hi>pulchro Graia</hi> puella viro.</l>
+            <l>Pelle licèt <hi>tenebrae</hi> dominantur, <hi>Lux</hi> tamen intus;</l>
+            <l>Vileo ſi membris, ſplendeo mente tenus.</l>
+            <l>Quid licèt <hi>harmonico</hi> careant mea membra <hi>tenore?</hi>
+            </l>
+            <l>Et male concinnus quilibet artus erit?</l>
+            <l>At Caro pingueſcit, mihi ſunt &amp; mollia crura;</l>
+            <l>Suraque ſuppetiit ſemivieta mihi.</l>
+            <l>Squalidus eſt <hi>oculo, digitis</hi> arridet obeſus;</l>
+            <l>Quod <hi>formâ</hi> minus eſt, hoc mihi ſupplet <hi>adeps.</hi>
+            </l>
+            <l>Millibus ex multis <hi>(experto crede)</hi> puellis,</l>
+            <l>Gaudia quae mihi fert plurima, <hi>pinguis</hi> erat.</l>
+            <l>Hoc eſt in cauſâ, quod nunc (uxore relictâ)</l>
+            <l>Noſtri feſtinant ad tua rura pedes.</l>
+            <l>Nempe voluptatis nihilum mihi frigida conjux</l>
+            <l>Suppeditat, penè eſt iſte ſenilis <hi>ager.</hi>
+            </l>
+            <l>Mandamus tritis ſemen ſine foenore ſulcis;</l>
+            <l>Nullaque tondetur falcibus inde ſeges.</l>
+            <l>Sed tuus (ô utinam!) pariat mihi gramina <hi>Campus,</hi>
+            </l>
+            <l>Viderunt <hi>agri</hi> vix tria luſtra Tui.</l>
+            <pb n="16" facs="tcp:95088:11"/>
+            <l>Aetas non unquam <hi>retrò</hi> retro-acta vocatur;</l>
+            <l>Florem, dum <hi>florem,</hi> Carpo (Corinna) tuum.</l>
+            <l>Qua<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>docunque tamen nos conveniemus in unum,</l>
+            <l>Corpore molliculo fac ſine <hi>Teſte</hi> fruar.</l>
+            <l>Non quaſi <hi>caſtratus ſpado,</hi> ſic ſine <hi>Teſtibus</hi> eſſem,</l>
+            <l>Sed quia laſcivum nolo <hi>patere</hi> torum.</l>
+            <l>Secretíſque jocis fac alta ſllentia praeſtes;</l>
+            <l>Quum placidum nobis hoc peragetur opus.</l>
+            <l>Nam non <hi>Privatus,</hi> ſed jam <hi>Res publica</hi> fio;</l>
+            <l>Et mihi vel <hi>Coecus</hi> quilibet, <hi>Argus</hi> erit.</l>
+            <l>Aptius idcirco cùm prima crepuſcula lucent,</l>
+            <l>Ad lectum veniam (blanda <hi>Corinna</hi>) tuum.</l>
+            <l>Et mihi furtivos aditus <hi>tranſenna</hi> feneſtrae</l>
+            <l>Aſtruet, à dextra quà patet uda <hi>palus.</hi>
+            </l>
+            <l>Nuper enim cùm nocte toro convenimus illo,</l>
+            <l>Infidae (memini) <hi>ter</hi> crepuêre fores.</l>
+            <l>Tunc indoctus eram, nunc uſu promptior exto;</l>
+            <l>Et magis aſſiduè jam taciturnus ero.</l>
+            <l>Neve tuus videat <hi>Genitor, Cuſtodibus</hi> (etſi</l>
+            <l>Carceris inſontem) <hi>Parliamenta</hi> dàbunt.</l>
+            <l>Mutuò tunc nobis aderit ſatis ampla voluptas;</l>
+            <l>Qua quoad eveniat, <hi>(Diva Corinna) Vale.</hi>
+            </l>
+         </div>
+         <div type="answer">
+            <pb n="17" facs="tcp:95088:11"/>
+            <head>The ANSWER.</head>
+            <lg>
+               <l>
+                  <hi>WHat, Latin Sir?</hi> why there is no man</l>
+               <l>That e're thought you an <hi>Engliſh Roman.</hi>
+               </l>
+               <l>Your <hi>father horſe</hi> could teach you none,</l>
+               <l>Nor was it e're your <hi>mother tongue.</hi>
+               </l>
+               <l>Your education too aſſures</l>
+               <l>Me, that <hi>your</hi> Poëm is not <hi>yours.</hi>
+               </l>
+               <l>Beſides, I thought you did deteſt</l>
+               <l>The language of the Latine <hi>beaſt.</hi>
+               </l>
+               <l>But now your <hi>impudence</hi> I ſee</l>
+               <l>Did hereby ſhew it's <hi>modeſty.</hi>
+               </l>
+               <l>Each ſyllable would <hi>bluſh,</hi> you thought,</l>
+               <l>If it had beene plaine <hi>Engliſh</hi> taught.</l>
+               <l>And that your foule debauched ſtuffe</l>
+               <l>Might doe its errant faſt enough,</l>
+               <l>Forſooth your wiſedome thought it meet</l>
+               <l>That words might <hi>runne,</hi> to give 'me feet.</l>
+               <l>Pardon me, Sir; I me none of thoſe</l>
+               <l>That love <hi>Love-Verſe,</hi> give me your <hi>Proſe.</hi>
+               </l>
+               <l>I wiſh each Verſe to make delay,</l>
+               <l>Had turn'd <hi>lame Scazon</hi> by the way.</l>
+               <l>I read a <hi>Hell</hi> in every line</l>
+               <l>Of your polluted <hi>feſcennine.</hi>
+               </l>
+               <l>Your Verſes <hi>ſtunck;</hi> to keepe 'em <hi>ſweet</hi>
+               </l>
+               <l>You ſhould have put <hi>ſocks</hi> on their <hi>feet.</hi>
+               </l>
+               <l>And that the Anſwer which I ſhall</l>
+               <l>Now write, may be methodicall.</l>
+               <pb n="18" facs="tcp:95088:12"/>
+               <l>Ile briefly make ('tis not amiſſe)</l>
+               <l>An <hi>Anacephalaeoſis.</hi>
+               </l>
+               <l>And firſt I look't for <hi>Neſtor,</hi> when</l>
+               <l>Meere <hi>Cupid</hi> trickl'd from your pen.</l>
+               <l>Who was your father, you make proofe</l>
+               <l>By your <hi>Coult's tooth,</hi> though not your <hi>hoofe.</hi>
+               </l>
+               <l>She that was great with you, you hold</l>
+               <l>Did not <hi>lye in,</hi> but was with <hi>fold.</hi>
+               </l>
+               <l>I wonder one ſo <hi>old,</hi> ſo <hi>grave,</hi>
+               </l>
+               <l>Should yet ſuch <hi>youth,</hi> ſuch <hi>lightneſſe</hi> have.</l>
+               <l>Of the five <hi>Members,</hi> you alone</l>
+               <l>Shall be eſteem'd the <hi>Privy</hi> one.</l>
+               <l>Who (like the <hi>Gnoſticks</hi>) preach; your Text</l>
+               <l>
+                  <hi>Increaſe and multiply;</hi> and next</l>
+               <l>Convincing <hi>Doctrines</hi> you deduce,</l>
+               <l>Put out the lights, and ſo make <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi>
+               </l>
+               <l>You ſay I am a <hi>maid</hi> exceeding</l>
+               <l>Apt to be taught by you <hi>good breeding.</hi>
+               </l>
+               <l>But where there's <hi>breeding,</hi> it is ſaid,</l>
+               <l>There's none, unleſſe a <hi>broken</hi> maid.</l>
+               <l>Turne Papiſt <hi>(ſtallion,)</hi> they'le diſpenſe</l>
+               <l>With whoredome by an <hi>Indulgence.</hi>
+               </l>
+               <l>Turne <hi>Fryar,</hi> that thou mayſt be free</l>
+               <l>At once with a whole <hi>Nunnery.</hi>
+               </l>
+               <l>There 'twill be vertue to ride on</l>
+               <l>The Purple <hi>Whore</hi> of <hi>Babylon.</hi>
+               </l>
+               <l>Thou mayſt as ſoone be <hi>Turke,</hi> as <hi>King;</hi>
+               </l>
+               <l>And that, ô that's the Tempting thing.</l>
+               <l>Then thou mayſt glut thy appetite</l>
+               <l>With a <hi>Seraglio</hi> of delight.</l>
+               <l>I am no <hi>Proſerpine,</hi> that thus</l>
+               <l>I ſhould deſire an <hi>Incubus.</hi>
+               </l>
+               <l>But you muſt <hi>Vote</hi> (if me you'le winne)</l>
+               <l>
+                  <hi>No Fornication to be Sinne.</hi>
+               </l>
+               <l>You ſay the <hi>Houſe</hi> takes it not well,</l>
+               <l>The <hi>King</hi> 'gainſt <hi>Rebels</hi> ſhould <hi>rebell;</hi>
+               </l>
+               <pb n="19" facs="tcp:95088:12"/>
+               <l>And that's the reaſon why you ſtand</l>
+               <l>To be <hi>Dictator</hi> of the Land.</l>
+               <l>Which mov'd me to a mighty toyle</l>
+               <l>Of getting <hi>Vardigreaſe</hi> and <hi>Oyle;</hi>
+               </l>
+               <l>'Cauſe ſuch <hi>Itch Med'cine</hi> is a thing</l>
+               <l>That's fitteſt to <hi>annoint</hi> you <hi>King.</hi>
+               </l>
+               <l>You ſay youl'd <hi>undergoe</hi> and doe</l>
+               <l>Wonders, would I <hi>undergoe</hi> you.</l>
+               <l>For my ſake you would <hi>Cobler</hi> play,</l>
+               <l>Your Trade ſhould be to <hi>underlay.</hi>
+               </l>
+               <l>For me you'de ſpend your <hi>chiefeſt bloud;</hi>
+               </l>
+               <l>Pray ſpend it on the <hi>Siſterhood.</hi>
+               </l>
+               <l>You wiſh to die in thoſe great <hi>fights</hi>
+               </l>
+               <l>Of <hi>Venus,</hi> where each <hi>wound</hi> delights.</l>
+               <l>And ſhould I once to Heav'en take wing,</l>
+               <l>You'ld follow me though in a <hi>ſtring.</hi>
+               </l>
+               <l>Thanke you (good Sir) it is our will</l>
+               <l>You your laſt promiſe doe fulfill.</l>
+               <l>There's nothing ſpoke that pleaſeth us</l>
+               <l>Like your <hi>[In funes ſedulus.]</hi>
+               </l>
+               <l>Next come thoſe idle twittle twats,</l>
+               <l>Which call me many <hi>God-know's what's:</hi>
+               </l>
+               <l>As hallow'd, beautifull, and faire,</l>
+               <l>Supple, and kinde, and Debonaire.</l>
+               <l>You talke of women that did wooe;</l>
+               <l>When I am mad, I'le doe ſo too.</l>
+               <l>Then that my father may not ſpie</l>
+               <l>The couplëing of you and I,</l>
+               <l>He ſhall be guiltleſly detected</l>
+               <l>As a <hi>true Subject, ill-affected:</hi>
+               </l>
+               <l>And ſo the <hi>Proteſtant</hi> ſhall lye</l>
+               <l>In Gaole for feare of <hi>Popery.</hi>
+               </l>
+               <l>[From hence it is that every Towne</l>
+               <l>Almoſt is now a Priſon growne,</l>
+               <l>Where Loyalty lyes fetter'd; then</l>
+               <l>You doe <hi>commit</hi> more Sinnes, then Men.]</l>
+               <pb n="20" facs="tcp:95088:13"/>
+               <l>But thoſe your words I have thought beſt</l>
+               <l>Should <hi>puniſh't</hi> be, by being <hi>preſs't.</hi>
+               </l>
+               <l>And that this <hi>body</hi> Politick</l>
+               <l>May then be <hi>well,</hi> which lye's now <hi>ſick;</hi>
+               </l>
+               <l>May the <hi>Greeke</hi> Π, that fatall <hi>Tree.</hi>
+               </l>
+               <l>
+                  <hi>This Spring beare</hi> all ſuch <hi>fruit</hi> as <hi>thee.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95088:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
